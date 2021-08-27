@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "event-source-stream": "^1.6.0",
+    "ws": "^8.0.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^7.4.7"
+  }
+}
